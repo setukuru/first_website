@@ -1,0 +1,51 @@
+.liste {
+  background-color: aquamarine;
+  width: 400px;
+  display: flex;
+  margin-left: 100px;
+  justify-content: space-around;
+}
+h1 {
+  color: red;
+}
+
+ol {
+  background-color: blue;
+}
+.non_ordonner {
+  background-color: black;
+  color: white;
+}
+.img1 {
+  width: 120px;
+  height: 180px;
+  object-fit: cover;
+  /* align-items: center; */
+  text-align: center;
+}
+.exemple {
+  display: flex;
+  justify-content: space-evenly;
+}
+.img2 {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+.exemple2 {
+  background: linear-gradient(rgb(58, 195, 199), rgb(114, 193, 53));
+  width: 800px;
+  display: flex;
+  gap: 40px;
+  text-align: justify;
+}
+.paragraphe {
+  /* width: 500px; */
+}
+p {
+  text-align: justify;
+}
+.divA {
+  width: 300px;
+  background-image: url(image/vc3.jpg);
+}
